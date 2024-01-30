@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        body{
+            background-color:rgb(10, 245, 214)
+        }
+        #rest{
+            color:red;
+        }
+        #ani{
+            color:yellow;
+        }
+            #togo{
+                color:blue;
+            }
+            .travel{
+                background-color:lightblue;
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1 class="travel">Travel to Maldives</h1>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-waves-daytime.png" alt="Maldives" width="180">
+        <h2 id="togo" >Things to see & go</h2>
+        <ul>
+            <li>Sun Island
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-waves-at-sunset.png" alt ="sun" width="180"> </li>
+            </ul>
+            <ul>
+            <li>Maldives glowing beach
+            <p>Seated on Vaadhoo Island in Raa Atoll, the stunning Glowing Beach is a marvel of nature where the beach shimmers.<strong> A biological phenomenon</strong> known as Bioluminescence causes waves to glow bright blue, lending the beach an ethereal makeup.</p>
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png" alt="glow" width="180"></li>  <li>HP Reef
+            <li>Scuba Diving
+            <p>Known for its brilliantly coloured seabed, that's dotted with beautiful corals, <em>HP Reef is one of the prettiest spots</em> and a prime diving hub in the Maldives. It is situated on Male Atoll on the northern side and has been declared a Protected Marine Area.</p>
+            <li>National museum near Maldives</li>
+        </ul>
+        <h2 id="rest">The Best Restaurants</h2>
+        <ol>
+            <li>Underwater Restaurant
+            <p><strong>Nestled 5.8 meters below sea level</strong>, the stunning Undersea Restaurant is located on the Lhaviyani Atoll on the Hurawalhi Island Resort. With lovely interiors, a visit to this restaurant is a must!</p>
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/sushi.png" alt="food" width="180"></li>
+            <li>Male Restaurant
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/ice-cream.png" alt="food" width="180"></li>
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/pasta.png" alt="food" width="180">
+            <li>Maafushi Island Restaurants
+<img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/oysters.png" alt="food" width="180"></li>
+        </ol>
+        <h2 id="ani">Animals you can see</h2>
+        <ul>
+            <li>Indian flying fox
+            <li>Stingray
+            <li>Stonefishes
+            <li>Spinner dolphin
+            </ul>
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/birds_rainbow-lorakeets.png" width ="180">
+            <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/shark.png" alt="food" width="180">
+                <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/snake_green-tree-boa.png" alt="food" width="180">
+            
+   
+        
+    </body>
+</html>
