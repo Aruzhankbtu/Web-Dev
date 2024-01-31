@@ -39,5 +39,49 @@
         <p class="like">2356 like</p>
         
         <h6>Posted on 16.02.2024r</h6>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+        .zhazu{
+            background-color:pink;
+            font-family:fantasy;
+            font-size:20px;
+            font-style:italic;
+            line-height:1.5em;
+            text-align:center;
+        }
+    </style>
+    <body>
+        
+        <h1>Aruzhan's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li>First post</li>
+        </ul>
+        
+        <h2>@aruhanxh</h2>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-sunset.png">
+        
+        
+        <p class="zhazu">Beach sunset.</p>
+        <p class="like">2499 like</p>
+        <h6>Posted on 31.01.2024r</h6>
+        
+        <h2>@aruhanxh</h2>
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/penguins.png">
+        
+        
+        <p class="zhazu">I saw pinguins. They are really cute!</p>
+        <p class="like">2356 like</p>
+        
+        <h6>Posted on 16.02.2024r</h6>
+        <p><em>Source: <a href="https://www.bbcgoodfood.com/recipes/classic-bolognese">instagram</a></em></p>
+    </body>
+</html>
     </body>
 </html>
